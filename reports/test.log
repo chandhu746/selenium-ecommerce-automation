@@ -1,0 +1,12 @@
+2025-08-28 12:46:15,942 - INFO - Launching chrome browser(Headless=False)
+2025-08-28 12:46:15,942 - INFO - Running test for https://rahulshettyacademy.com with product Blackberry
+2025-08-28 12:46:30,524 - INFO - Closed chrome browserr
+2025-08-28 12:46:31,882 - INFO - Launching chrome browser(Headless=False)
+2025-08-28 12:46:31,882 - INFO - Running test for https://www.saucedemo.com/ with product iphone X
+2025-08-28 12:46:39,492 - INFO - Closed chrome browserr
+2025-08-28 12:49:46,755 - INFO - Launching chrome browser(Headless=True)
+2025-08-28 12:49:46,759 - INFO - Running test for https://rahulshettyacademy.com with product Blackberry
+2025-08-28 12:49:59,516 - INFO - Closed chrome browserr
+2025-08-28 12:50:00,842 - INFO - Launching chrome browser(Headless=True)
+2025-08-28 12:50:00,842 - INFO - Running test for https://www.saucedemo.com/ with product iphone X
+2025-08-28 12:50:09,286 - INFO - Closed chrome browserr
