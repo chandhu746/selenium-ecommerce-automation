@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-from pages.checkout_page import Checkout_Confirmation
+from pages.rahulshetty.checkout_page import Checkout_Confirmation
 
 
 class ShopPage:

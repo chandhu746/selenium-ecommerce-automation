@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from pages.shop_page import ShopPage
+from pages.rahulshetty.shop_page import ShopPage
 
 class LoginPage:
     def __init__(self,driver):

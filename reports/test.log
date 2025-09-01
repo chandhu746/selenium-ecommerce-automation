@@ -10,3 +10,82 @@
 2025-08-28 12:50:00,842 - INFO - Launching chrome browser(Headless=True)
 2025-08-28 12:50:00,842 - INFO - Running test for https://www.saucedemo.com/ with product iphone X
 2025-08-28 12:50:09,286 - INFO - Closed chrome browserr
+2025-08-30 14:35:30,189 - INFO - Launching chrome browser(Headless=False)
+2025-08-30 14:35:30,189 - INFO - Running test for https://rahulshettyacademy.com with product Blackberry
+2025-08-30 14:35:43,589 - INFO - Test completed successfully...
+2025-08-30 14:35:45,904 - INFO - Closed chrome browserr
+2025-08-30 15:16:29,913 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:16:32,282 - INFO - Closed chrome browserr
+2025-08-30 15:17:41,560 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:17:43,759 - INFO - Closed chrome browserr
+2025-08-30 15:18:05,523 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:18:07,813 - INFO - Closed chrome browserr
+2025-08-30 15:18:09,603 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:18:11,958 - INFO - Closed chrome browserr
+2025-08-30 15:18:15,310 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:18:17,655 - INFO - Closed chrome browserr
+2025-08-30 15:21:34,618 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:21:36,861 - INFO - Closed chrome browserr
+2025-08-30 15:22:25,820 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:22:28,045 - INFO - Closed chrome browserr
+2025-08-30 15:22:31,295 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:22:33,561 - INFO - Closed chrome browserr
+2025-08-30 15:22:36,667 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:22:38,925 - INFO - Closed chrome browserr
+2025-08-30 15:28:11,029 - INFO - Launching chrome browser(Headless=False) on rahulshetty website
+2025-08-30 15:28:11,029 - INFO - Running test for https://rahulshettyacademy.com with product Blackberry
+2025-08-30 15:28:24,046 - INFO - Test completed successfully...
+2025-08-30 15:28:26,293 - INFO - Closed chrome browserr
+2025-09-01 19:08:11,721 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:08:11,721 - INFO - Running test https://rahulshettyacademy.com
+2025-09-01 19:08:14,715 - INFO - Closed chrome browserr
+2025-09-01 19:12:46,201 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:12:46,201 - INFO - Running test https://rahulshettyacademy.com
+2025-09-01 19:12:49,000 - INFO - Closed chrome browserr
+2025-09-01 19:14:22,870 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:14:22,870 - INFO - Running test https://rahulshettyacademy.com
+2025-09-01 19:14:25,700 - INFO - Closed chrome browserr
+2025-09-01 19:17:04,342 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:17:04,342 - INFO - Running test https://rahulshettyacademy.com
+2025-09-01 19:17:07,198 - INFO - Closed chrome browserr
+2025-09-01 19:32:29,965 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:32:29,969 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 19:32:32,734 - INFO - Closed chrome browserr
+2025-09-01 19:45:14,624 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:45:14,628 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 19:45:22,860 - INFO - Closed chrome browserr
+2025-09-01 19:56:43,823 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 19:56:43,823 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 19:56:46,725 - INFO - Closed chrome browserr
+2025-09-01 20:01:40,354 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 20:01:40,354 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 20:01:49,455 - INFO - Closed chrome browserr
+2025-09-01 20:04:09,787 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 20:04:09,789 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 20:04:11,866 - INFO - Cart contains: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:04:11,866 - INFO - Cart price: [29.99, 9.99, 7.99]
+2025-09-01 20:04:14,155 - INFO - Closed chrome browserr
+2025-09-01 20:07:43,079 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 20:07:43,083 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 20:07:44,606 - INFO - Cart contains: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:07:44,606 - INFO - Cart price: [29.99, 9.99, 7.99]
+2025-09-01 20:07:45,801 - INFO - Order summary items: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:07:45,801 - INFO - Order summary prices: ['$29.99', '$9.99', '$7.99']
+2025-09-01 20:07:45,801 - INFO - Summary totals: {'subtotal': 'Item total: $47.97', 'tax': 'Tax: $3.84', 'total': 'Total: $51.81'}
+2025-09-01 20:07:48,103 - INFO - Closed chrome browserr
+2025-09-01 20:10:49,883 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 20:10:49,885 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 20:10:51,855 - INFO - Cart contains: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:10:51,855 - INFO - Cart price: [29.99, 9.99, 7.99]
+2025-09-01 20:10:52,527 - INFO - Order summary items: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:10:52,527 - INFO - Order summary prices: [29.99, 9.99, 7.99]
+2025-09-01 20:10:52,527 - INFO - Summary totals: {'subtotal': 'Item total: $47.97', 'tax': 'Tax: $3.84', 'total': 'Total: $51.81'}
+2025-09-01 20:10:54,885 - INFO - Closed chrome browserr
+2025-09-01 20:14:41,193 - INFO - Launching chrome browser(Headless=False) on sauce website
+2025-09-01 20:14:41,197 - INFO - Running test https://www.saucedemo.com/
+2025-09-01 20:14:43,175 - INFO - Cart contains: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:14:43,175 - INFO - Cart price: [29.99, 9.99, 7.99]
+2025-09-01 20:14:43,916 - INFO - Order summary items: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Onesie']
+2025-09-01 20:14:43,916 - INFO - Order summary prices: [29.99, 9.99, 7.99]
+2025-09-01 20:14:43,916 - INFO - Summary totals: {'subtotal': 'Item total: $47.97', 'tax': 'Tax: $3.84', 'total': 'Total: $51.81'}
+2025-09-01 20:14:46,193 - INFO - Closed chrome browserr

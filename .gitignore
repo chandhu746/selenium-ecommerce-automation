@@ -2,11 +2,6 @@ env/
 .venv
 venv
 
-
-
-# Config
-config/config.json
-
 # Python
 __pycache__/
 *.pyc
